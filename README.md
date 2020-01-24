@@ -1,1 +1,2 @@
-# HW_6_APIs
+# WeatherPy Challenge
+How does your proximity to the equator effect the weather? 500+ cities across the world were randomly selected based on latitude and longitude. The cities' weather report was compiled through a series of API calls to the OpenWeatherMap API. Scatter plots were created to illustrate the relationships between the following: temperature vs latitude, humidity vs latitude, cloudiness vs latitude, and wind speed vs latitude. The scatter plots were created with Matplotlib and pandas. Finally an analysis of observable trends is included.
